@@ -1,9 +1,10 @@
 <div align="center">
     <img src="public/favicon.svg" alt="Twitoor Logo">
-    <h1>Twitoor</h1>
+    <h1>Twitooor</h1>
+    <a href="https://twitooor.vercel.app/"><b>twitooor.vercel.app »</b></a><br><br>
     <strong>A decentralized, and permissionless social media app built on Lens Protocol 🌿</strong>
 </div>
-<br>
+<br><br>
 
 ## 🌿 About Twitoor
 
