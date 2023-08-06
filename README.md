@@ -9,6 +9,10 @@
 ## 🌿 About Twitoor
 
 Twitoor is a modern web3 social media application that leverages the power of [Lens Protocol](http://lens.xyz) 🌿 to create a decentralized and permissionless platform for users to interact, share, and engage with one another. With a focus on privacy, and user controlled data, Twitoor aims to revolutionize the social media landscape by providing a more transparent and equitable digital environment for its users.
+<br><br>
+<div align="center">
+    <img src="assets/Mockup1.png" alt="Mockup">
+</div>
 
 ## Setup on your device
 
