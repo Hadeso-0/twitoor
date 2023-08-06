@@ -16,8 +16,7 @@ import Image from 'next/image';
 import { formatUsername } from '../UserProfile';
 import Followerings from './Followerings';
 import Link from 'next/link';
-import { Button } from './Button';
-import { PiGear, PiGlobe, PiGlobeBold, PiHashBold, PiMapPinLine, PiMapPinLineBold, PiTwitterLogo, PiTwitterLogoBold, PiUserPlus } from 'react-icons/pi';
+import { PiGlobeBold, PiHashBold, PiMapPinLineBold, PiTwitterLogoBold, PiUserPlus } from 'react-icons/pi';
 import { Tooltip } from './Tooltip';
 
 interface DetailsProps {
