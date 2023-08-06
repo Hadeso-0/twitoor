@@ -50,6 +50,7 @@ export function useFollow() {
 
     // Call the smart contract function called "followWithSig"
     const result = await lensHubContract.call("followWithSig", {
+      // @ts-ignore
       follower: address,
       profileIds: [userId],
       datas: value.datas,
