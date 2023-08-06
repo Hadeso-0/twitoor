@@ -7,44 +7,43 @@ const Footer: React.FC = () => {
         © Twitoor
       </span>
       <span className="pr-3">
-        <Link href="/about" passHref>
+        <Link 
+          href="https://github.com/Hadeso-0/twitoor/blob/main/README.md" 
+          target="_blank" 
+          rel="noreferrer" 
+          passHref>
           About
         </Link>
       </span>
       <span className="pr-3">
-        <Link href="/terms" passHref>
+        <Link href="/" passHref>
           Terms
         </Link>
       </span>
       <span className="pr-3">
-        <Link href="/privacy" passHref>
+        <Link href="/" passHref>
           Privacy
         </Link>
       </span>
       <a
         className="pr-3"
-        href="https://gitlab.com/lenster/lenster"
+        href="https://github.com/Hadeso-0/twitoor"
         target="_blank"
         rel="noreferrer"
       >
         Status
       </a>
-      <span className="pr-3">
-        <Link href="/thanks" passHref>
-          Thanks
-        </Link>
-      </span>
       <a
         className="pr-3"
-        href="https://gitlab.com/lenster/lenster"
+        href="https://github.com/Hadeso-0/twitoor"
         target="_blank"
         rel="noreferrer"
       >
-        GitLab
+        GitHub
       </a>
       <a
         className="pr-3 hover:text-slate-900"
-        href="https://vercel.com/?utm_source=Lenster&utm_campaign=oss"
+        href="https://vercel.com/?utm_source=Twitoor&utm_campaign=oss"
         target="_blank"
         rel="noreferrer"
       >
