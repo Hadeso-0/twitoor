@@ -51,7 +51,7 @@ export default function Navbar() {
         <div className="relative flex items-center justify-between h-14 sm:h-16">
           <div className="flex items-center justify-start flex-1">
             <div className="flex items-center flex-shrink-0 space-x-3">
-              <Link href="/home">
+              <Link href="/">
                   <div className="text-3xl font-black">
                     <Image className="w-8 h-8" src="/logo.svg" alt="Logo" height={8} width={8}/>
                   </div>
